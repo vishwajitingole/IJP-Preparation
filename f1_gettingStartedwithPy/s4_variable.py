@@ -10,6 +10,9 @@ a=input("Enter a number")
 print(a)
 b=input("Enter second number")
 print(b)
+#Here theres is one problem in above program that the user might
+# input a string number special character and if we are trying to perform any operation with that input like
+#addition substraction multiplication it will give an error
 
 
 x=int(input("Enter number one"))
